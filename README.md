@@ -8,7 +8,7 @@
 - [ ] github project 생성 및 관리 (kanban template)
 - [ ] github issue 생성 및 관리
 - [ ] pandas 오픈소스 프로젝트 fork 및 관리
-- [ ] IDE에 github 연동 
+- [ ] IDE에 github 연동 (Pycharm에 연동 진행 완료)
 - [ ] github 전반 기능 학습
 
 markdown 
