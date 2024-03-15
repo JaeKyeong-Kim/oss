@@ -29,9 +29,14 @@ markdown
 :+1:
 
 ---------------------------------------------------------------------------------
+## Mar.13.2024
+Ckan - OSS management program
 
+data.gov
+data.go.kr
 
+---------------------------------------------------------------------------------
+## Mar.15.2024
 
-
-
+ppt silseup2 main structure git process Mid-term (4 stages)
 
