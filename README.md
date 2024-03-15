@@ -40,3 +40,4 @@ data.go.kr
 
 ppt silseup2 main structure git process in Mid-term (4 stages)
 
+commit & push process
