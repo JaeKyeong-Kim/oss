@@ -38,5 +38,5 @@ data.go.kr
 ---------------------------------------------------------------------------------
 ## Mar.15.2024
 
-ppt silseup2 main structure git process Mid-term (4 stages)
+ppt silseup2 main structure git process in Mid-term (4 stages)
 
