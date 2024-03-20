@@ -44,4 +44,8 @@ commit & push process
 
 ---------------------------------------------------------------------------------
 ## Mar.20.2024
+ppt3 
+
+- principle of scaled presentations
+- checklits
 
