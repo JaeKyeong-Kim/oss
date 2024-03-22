@@ -54,4 +54,6 @@ ppt3
 ppt3
 
 - checklists (Terminologies in Mid-term)
-- 
+- Markdown in slack
+
+
