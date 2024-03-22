@@ -55,6 +55,6 @@ ppt3
 silseup 2
 
 - checklists (Terminologies in Mid-term)
-- Markdown in slack
+- Markdown in slack (How to use code)
 
 
