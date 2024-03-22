@@ -53,5 +53,5 @@ ppt3
 ## Mar.22.2024
 ppt3
 
-- checklists
+- checklists (Terminologies in Mid-term)
 - 
