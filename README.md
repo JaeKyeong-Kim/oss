@@ -64,3 +64,5 @@ silseup 9 - streamlit
 streamlit, dash plotly, grandio - three frontend application
 
 requirmets needed for library installations
+streamlit run streamlit_app.py # streamlit_app.py <- file name
+
