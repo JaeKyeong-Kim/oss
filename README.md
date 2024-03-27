@@ -61,5 +61,5 @@ silseup 2
 ## Mar.27.2024
 silseup 9 - streamlit
 
-
+streamlit, dash, grandio - three frontend application
 
