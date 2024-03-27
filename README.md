@@ -63,3 +63,4 @@ silseup 9 - streamlit
 
 streamlit, dash plotly, grandio - three frontend application
 
+requirmets needed for library installations
