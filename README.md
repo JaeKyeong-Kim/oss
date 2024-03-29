@@ -71,6 +71,7 @@ pip install -r requirements.txt <- install all the libraries for the application
   
 **oss-streamlit** repository added
 
+github & streamlist synchronized
 ---------------------------------------------------------------------------------
 ## Mar.29.2024
 
