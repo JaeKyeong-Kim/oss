@@ -85,6 +85,12 @@ repository - oss_streamlit
 
 ---------------------------------------------------------------------------------
 ## Apr.5.2024
+ppt3
+VCS~
+License~
 
+License features - Mid term (+ name for six examples)
+
+*exponential features
 
 
