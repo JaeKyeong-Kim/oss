@@ -95,6 +95,10 @@ License features - Mid term (+ name for six examples)
 ---------------------------------------------------------------------------------
 ## Apr.12.2024
 ppt Setuptools - Pypi package 
+ppt4 - 기술적인 인프라 구조
+
+brooks law - communication channel setup n(n-1)/2
+{__AT__}: 보안상의 이유로 운영메일에 사용된다. 그림이나 띄어쓰기를 넣는 경우도 있다.
 
 
 
