@@ -90,6 +90,7 @@ VCS~
 License~
 
 License features - Mid term (+ name for six examples)
+*exponential features
 
 ---------------------------------------------------------------------------------
 ## Apr.12.2024
@@ -97,6 +98,6 @@ ppt Setuptools - Pypi package
 
 
 
-*exponential features
+
 
 
