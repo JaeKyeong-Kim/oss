@@ -100,6 +100,21 @@ ppt4 - 기술적인 인프라 구조
 brooks law - communication channel setup n(n-1)/2
 {__AT__}: 보안상의 이유로 운영메일에 사용된다. 그림이나 띄어쓰기를 넣는 경우도 있다.
 
+---------------------------------------------------------------------------------
+## Apr.17.2024
+[Midterm]
+- code 작성 안나옴
+- 20-25Q
+- ex. markdown italic체로 만들기, 영어단어 풀어쓰기(LTS - long term support)
+- 금요일 수업 LMS 대체
+- git 수행과정 시험 나옴
+- VCS Voca
+- conflict, diff, revert, ...
+- browsability - 탐색기능
+- sigularity - 원자성
+- 
+
+
 
 
 
