@@ -129,5 +129,7 @@ Docker
 docker run options 잘보기. 시험 나옴. p.17, -p forwarding. -e~--rm 까지는 안해도 됨
 ex. image에 파일복사 <- 거짓.  container에 파일복사 가능.
 
+generated file(ex. compiled files)은 image에 들어있으면 안되므로, container에서의 변화된 이미지는 다시 image로 저장하면 안된다.
+
 
 
