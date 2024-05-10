@@ -126,5 +126,8 @@ Docker installation
 ## May.10.2024
 Docker 
 
-docker run options 잘보기. 시험 나옴. p.17
+docker run options 잘보기. 시험 나옴. p.17, -p forwarding. -e~--rm 까지는 안해도 됨
+ex. image에 파일복사 <- 거짓.  container에 파일복사 가능.
+
+
 
